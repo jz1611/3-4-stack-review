@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "age": "9 months",
+        "name": "Thor",
+        "breed": "Chihuahua",
+        "color": "Transparent",
+        "gender": "male",
+        "dateSmuggled": "11/27/2019",
+        "temperment": "very aggressive",
+        "size": "Extremely Large"
+    }
+]
